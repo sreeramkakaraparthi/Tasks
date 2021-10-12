@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=SAILS-DM161;Database=railtask;Trusted_Connection=True;MultipleActiveResultSets=true"
+  }
+
+}

@@ -1,0 +1,12 @@
+C:\Users\SAILS-DM161\source\repos\railtask1\datalayered\bin\Debug\net5.0\datalayered.deps.json
+C:\Users\SAILS-DM161\source\repos\railtask1\datalayered\bin\Debug\net5.0\datalayered.dll
+C:\Users\SAILS-DM161\source\repos\railtask1\datalayered\bin\Debug\net5.0\ref\datalayered.dll
+C:\Users\SAILS-DM161\source\repos\railtask1\datalayered\bin\Debug\net5.0\datalayered.pdb
+C:\Users\SAILS-DM161\source\repos\railtask1\datalayered\obj\Debug\net5.0\datalayered.csproj.AssemblyReference.cache
+C:\Users\SAILS-DM161\source\repos\railtask1\datalayered\obj\Debug\net5.0\datalayered.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAILS-DM161\source\repos\railtask1\datalayered\obj\Debug\net5.0\datalayered.AssemblyInfoInputs.cache
+C:\Users\SAILS-DM161\source\repos\railtask1\datalayered\obj\Debug\net5.0\datalayered.AssemblyInfo.cs
+C:\Users\SAILS-DM161\source\repos\railtask1\datalayered\obj\Debug\net5.0\datalayered.csproj.CoreCompileInputs.cache
+C:\Users\SAILS-DM161\source\repos\railtask1\datalayered\obj\Debug\net5.0\datalayered.dll
+C:\Users\SAILS-DM161\source\repos\railtask1\datalayered\obj\Debug\net5.0\ref\datalayered.dll
+C:\Users\SAILS-DM161\source\repos\railtask1\datalayered\obj\Debug\net5.0\datalayered.pdb

@@ -1,0 +1,6 @@
+C:\Users\SAILS-DM161\source\repos\railtask1\railtask1\bin\Debug\railtask1.dacpac
+C:\Users\SAILS-DM161\source\repos\railtask1\railtask1\bin\Debug\railtask1.dll
+C:\Users\SAILS-DM161\source\repos\railtask1\railtask1\bin\Debug\railtask1.pdb
+C:\Users\SAILS-DM161\source\repos\railtask1\railtask1\obj\Debug\railtask1.sqlproj.AssemblyReference.cache
+C:\Users\SAILS-DM161\source\repos\railtask1\railtask1\obj\Debug\railtask1.dll
+C:\Users\SAILS-DM161\source\repos\railtask1\railtask1\obj\Debug\railtask1.pdb
